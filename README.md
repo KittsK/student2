@@ -1,1 +1,4 @@
-# student2
+# my project
+## learning vc
+* git
+* github
